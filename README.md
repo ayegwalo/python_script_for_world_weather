@@ -1,10 +1,11 @@
 # Weather App
-A simple Python script that retrieves and displays weather information for a specified city using the OpenWeatherMap API. This project demonstrates how to use environment variables with a `.env` file for secure API key management.
+A simple Python script that retrieves and displays weather information for a specified city using the OpenWeatherMap API. 
+This project demonstrates how to use environment variables with a `.env` file for secure API key management.
 
 ## Features
 - Fetch current weather data based on city name.
 - Display temperature, weather description, humidity, and wind speed.
-- Securely manage API keys using a `.env` file.
+- Manage API keys using a `.env` file.
 - Comments are added for your reference
 
 ## Prerequisites
